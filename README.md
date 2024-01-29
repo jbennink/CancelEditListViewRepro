@@ -8,3 +8,4 @@ NET 6.0: https://calwaystorage.blob.core.windows.net/imageuploads/johan/CancelEd
 
 NET 8.0: https://calwaystorage.blob.core.windows.net/imageuploads/johan/CancelEditListViewRepro_Q3xzL07Axp.mp4
 
+This is literally the sample code from: https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.listview.afterlabeledit?view=windowsdesktop-8.0#remarks
